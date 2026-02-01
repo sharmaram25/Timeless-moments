@@ -116,7 +116,7 @@ const Hero: React.FC<HeroProps> = ({ onStart }) => {
             transition={{ delay: 0.2, type: 'spring' }}
           >
             <Heart className="w-5 h-5 text-rose-500 fill-rose-500 animate-pulse mr-2" />
-            <span className="text-xs font-sans uppercase tracking-widest text-rose-900/70 font-semibold">Est. 2023</span>
+            <span className="text-xs font-sans uppercase tracking-widest text-rose-900/70 font-semibold">Forever Yours</span>
           </motion.div>
           
           <div className="relative">
@@ -132,7 +132,7 @@ const Hero: React.FC<HeroProps> = ({ onStart }) => {
                     <path id="curve" d="M 50 50 m -37 0 a 37 37 0 1 1 74 0 a 37 37 0 1 1 -74 0" fill="transparent"/>
                     <text fontSize="14" fill="currentColor">
                         <textPath href="#curve">
-                            • twenty moments • twenty memories •
+                            • timeless moments • endless memories •
                         </textPath>
                     </text>
                 </svg>

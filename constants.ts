@@ -3,7 +3,7 @@ import { Memory, Note, FunnyMoment, FuturePromise, CandidPhoto } from './types';
 export const APP_CONFIG = {
   particleCount: 20,
   transitionDuration: 1.5,
-  startDate: '2023-01-01', // YYYY-MM-DD format
+  startDate: '2025-01-01', // YYYY-MM-DD format
 };
 
 
